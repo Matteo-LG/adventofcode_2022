@@ -1,7 +1,7 @@
 import numpy as np
 import copy
 
-with open('05_decembre.txt') as f:
+with open('data/05_decembre.txt') as f:
     lines = [x[:-1] for x in f]
 
 piles = [[] for i in range(9)]

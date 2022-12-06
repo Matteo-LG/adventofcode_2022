@@ -1,4 +1,4 @@
-with open('02_decembre.txt') as f:
+with open('data/02_decembre.txt') as f:
     lines = [x[:-1] for x in f]
 
 rules = {"A X":4,"A Y":8,"A Z":3,"B X":1,"B Y":5,"B Z":9,"C X":7,"C Y":2,"C Z":6}

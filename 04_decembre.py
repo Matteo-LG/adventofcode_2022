@@ -1,4 +1,4 @@
-with open('04_decembre.txt') as f:
+with open('data/04_decembre.txt') as f:
     lines = [x[:-1] for x in f]
 
 s = 0

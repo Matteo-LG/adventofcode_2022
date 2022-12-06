@@ -1,4 +1,4 @@
-with open('01_decembre.txt') as f:
+with open('data/01_decembre.txt') as f:
     lines = [x[:-1] for x in f]
 
 max1,max2,max3 = 0,0,0
