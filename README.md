@@ -4,10 +4,10 @@ This repo will contain my work for Advent of Code 2022. I won't be competing at 
 
 # :(
 
+For the first 2 day I didn't time myself but did both in approximately 3/4 minutes.
+
 | Day | First star | Second star | Comment |
 |---|---|---|---|
-| 1 |  approx 3 min
-| 2 |  approx 4 min
 | 3 | 5min51 | 5min25 |  |
 | 4 | 5min54 | 3min23 | Lost time for the first star by forgetting to convert the inputs to integers |
 | 5 | 15min10 | 7min19 | Really bad time bc of trouble dealing with the input for the first star and deepcopy issues for the second one |
