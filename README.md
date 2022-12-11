@@ -12,6 +12,6 @@ For the first 2 day I didn't time myself but did both in approximately 3/4 minut
 | 4 | 5min54 | 3min23 | Lost time for the first star by forgetting to convert the inputs to integers |
 | 5 | 15min10 | 7min19 | Really bad time bc of trouble dealing with the input for the first star and deepcopy issues for the second one |
 | 6 | 3min35 | 1min02 | Lost time because I forgot 0th element in python is the first character and my answer was off by 1 |
-| 7 | 28min51 | 8min58 | *Really bad* performance today, for the first star it took me a long time to understand the problem with my code : I didn't take into account the fact that multiple directories could have the same name :( For the second star I just didn't read the problem carefully enough. Two good lessons for the next days ! |
-| 8 |  |  |  |
+| 7 | 28min51 | 8min58 | **Really bad** performance today, for the first star it took me a long time to understand the problem with my code : I didn't take into account the fact that multiple directories could have the same name :( For the second star I just didn't read the problem carefully enough. Two good lessons for the next days ! |
+| 8 | 25min55 | >1h | I'm continuing my **bad** streak, took a lot of time to debug my code and understanding that the problem was the boundary conditions :( Didn't even time myself for the second part as it took ages for me to figure out the problem, once again I should spend more time on readin comprehension 🤦‍♂ |
 | 9 |  |  |  |
